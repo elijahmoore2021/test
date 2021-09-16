@@ -29,6 +29,8 @@ func Print(s string) string {
 
 // it's second function
 // efefhef
+// 
+// This is newline spacing
 func Eval(s string) string {
   print(s)
 }
