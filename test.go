@@ -22,13 +22,13 @@ import "fmt"
 // It is a test repo
 // hemlo
 // how are you
-func print(s string) string {
+func Print(s string) string {
   fmt.Println(s)
   return s
 }
 
 // it's second function
 // efefhef
-func eval(s string) string {
+func Eval(s string) string {
   print(s)
 }
